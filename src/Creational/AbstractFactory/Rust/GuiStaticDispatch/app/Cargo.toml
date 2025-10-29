@@ -1,0 +1,9 @@
+[package]
+name = "ticDispatch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gui = { path = "../gui" }
+macos-gui = { path = "../macos-gui" }
+windows-gui = { path = "../windows-gui" }

@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "app",
+    "gui",
+    "macos-gui",
+    "windows-gui"
+]
